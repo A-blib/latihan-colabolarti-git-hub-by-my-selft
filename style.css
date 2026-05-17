@@ -94,3 +94,9 @@ body{
     border-radius: 10px;
     box-shadow: 1px 1px 10px black;
 }
+
+
+.doggy{
+    height: 100px;
+    border-radius: 50%;
+}
